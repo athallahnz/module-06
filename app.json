@@ -3,6 +3,7 @@
     "name": "module-06",
     "slug": "module-06",
     "version": "1.0.0",
+    "scheme": "my-scheme",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -23,5 +24,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
+    
   }
 }
